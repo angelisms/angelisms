@@ -5,7 +5,7 @@
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/angelisms/osticket-prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/angelisms/-post-install-config/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/angelisms/configure-ad)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/angelisms/ticket-lifecycle/blob/main/README.md)
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/angelisms/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/angelisms/configure-ad)
