@@ -3,7 +3,7 @@
 <h2>🖥️ Information Technology Projects🖥</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/angelisms/configure-ad)
+  - [osTicket: Prerequisites and Installation](https://github.com/angelisms/osticket-prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/angelisms/configure-ad)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/angelisms/configure-ad)
 - <b>Microsoft Azure</b>
