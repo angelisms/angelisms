@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/angelisms/ticket-lifecycle/blob/main/README.md)
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/angelisms/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/angelisms/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/angelisms/-azure-network-protocols/blob/main/README.md)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/angelisms/configure-ad)
 
